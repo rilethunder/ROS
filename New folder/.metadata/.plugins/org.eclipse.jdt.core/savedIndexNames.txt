@@ -1,0 +1,11 @@
+INDEX VERSION 1.126+C:\Users\LenovoX230\Desktop\School\College\Third Year\New folder\RestaurantOrderingSystem\New folder\.metadata\.plugins\org.eclipse.jdt.core
+2432270904.index
+314042970.index
+28125121.index
+1390113361.index
+2309603702.index
+3118720150.index
+4048213405.index
+1847759114.index
+2547769956.index
+3182512931.index

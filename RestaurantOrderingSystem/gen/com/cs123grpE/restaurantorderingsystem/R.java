@@ -29,7 +29,7 @@ public final class R {
         public static final int prelimlogo=0x7f020003;
     }
     public static final class id {
-        public static final int action_settings=0x7f08003b;
+        public static final int action_settings=0x7f08003d;
         public static final int btnAddMenu=0x7f08001b;
         public static final int btnAddToCart=0x7f080038;
         public static final int btnAdmin=0x7f08002e;
@@ -55,6 +55,7 @@ public final class R {
         public static final int btnSave=0x7f080006;
         public static final int btnSearch=0x7f080015;
         public static final int checkRem=0x7f080021;
+        public static final int foodName=0x7f08003a;
         public static final int list=0x7f080016;
         public static final int listCart=0x7f08000d;
         public static final int listKitchen=0x7f08001c;
@@ -62,8 +63,9 @@ public final class R {
         public static final int logo=0x7f080007;
         public static final int logout=0x7f080031;
         public static final int priceName=0x7f080033;
+        public static final int tableName=0x7f08003b;
         public static final int textView00=0x7f080039;
-        public static final int textView01=0x7f08003a;
+        public static final int textView01=0x7f08003c;
         public static final int textView1=0x7f08001d;
         public static final int textView2=0x7f08001f;
         public static final int textView3=0x7f08002d;
